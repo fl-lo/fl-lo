@@ -1,6 +1,6 @@
-<h3 align="center">IT Student · IA Enthusiast</h3>
+<h3 align="center">IT Student · AI Enthusiast</h3>
 
 - 📚 Paul Sabatier University
-- 🌱 Learning IA
+- 🌱 Learning AI
 - ⚡ Working on a lot of projects
 - 🦾 Contributing to cool open source projects
