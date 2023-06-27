@@ -1,7 +1,6 @@
 <h3 align="center">IT Student · AI Enthusiast</h3>
 
-- 📚 Toulouse III University
-- 🌱 Learning AI
+- 🌱 Learning AI and ethical hacking
 - ⚡ Working on a lot of projects
 - 🦾 Contributing to cool open source projects
 
