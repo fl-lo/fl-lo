@@ -1,10 +1,21 @@
 <h3 align="center">IT Student · AI Enthusiast</h3>
 
-- 🌱 Learning AI and ethical hacking
-- ⚡ Working on a lot of projects
-- 🦾 Contributing to cool open source projects
+---
 
-Programming languages that I use frequently :
+### 🚀 Projects
+- [Vision RP](https://github.com/SERVEURVISION)
+- [ZeroTrust Anti-cheat](https://zerotrust-ac.net/)
+
+---
+
+### 🌱 About Me
+- Learning AI, ethical hacking and reverse engineering
+- Contributing to some **open-source** projects
+
+---
+
+### 💻 Tech Stack
+#### Programming languages that I use frequently :
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png"></code>
