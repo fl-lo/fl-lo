@@ -4,7 +4,7 @@
 
 ### 🚀 Projects
 - [Vision RP](https://github.com/SERVEURVISION)
-- [ZeroTrust Anti-cheat](https://zerotrust-ac.net/)
+- [ZeroTrust Anti-cheat](https://github.com/ZeroTrust-Studio)
 
 ---
 
