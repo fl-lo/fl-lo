@@ -1,13 +1,5 @@
 <h3 align="center">IT Student · AI Enthusiast</h3>
 
----
-
-### 🚀 Projects
-- [Vision RP](https://github.com/SERVEURVISION)
-- [ZeroTrust Anti-cheat](https://github.com/ZeroTrust-Studio)
-
----
-
 ### 🌱 About Me
 - Learning AI, ethical hacking and reverse engineering
 - Contributing to some **open-source** projects
