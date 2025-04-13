@@ -4,6 +4,10 @@
 - Learning AI, ethical hacking and reverse engineering
 - Contributing to some **open-source** projects
 
+### ⚗ Projetcts
+- [ZeroTrust](https://zerotrust-ac.net/) : Leading group in combating cheating in FiveM. (More than just an Anticheat)
+- Klea : Soon 👀
+
 ---
 
 ### 💻 Tech Stack
