@@ -6,7 +6,6 @@
 
 ### ⚗ Projetcts
 - [ZeroTrust](https://zerotrust-ac.net/) : Leading group in combating cheating in FiveM. (More than just an Anticheat)
-- Klea : Soon 👀
 
 ---
 
