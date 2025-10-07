@@ -108,9 +108,9 @@
         <strong>MongoDB</strong>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="NoSQL" width="50" height="50"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="50" height="50"/>
         <br />
-        <strong>NoSQL</strong>
+        <strong>PostgreSQL</strong>
       </td>
       <td align="center">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s" alt="React" width="50" height="50"/>
