@@ -33,9 +33,6 @@
     <tr>
       <td align="center">
         <img src="https://cdn.sacul.cloud/zerotrust/zerotrustwhite.png" width="60" height="60"/>
-        <br />
-        <strong><a href="https://zerotrust-ac.net">ZeroTrust</a></strong>
-        <br />
       </td>
     </tr>
   </table>
