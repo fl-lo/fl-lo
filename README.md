@@ -31,8 +31,11 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+     <td align="center">
         <img src="https://cdn.sacul.cloud/zerotrust/zerotrustwhite.png" width="60" height="60"/>
+        <br />
+        <strong>ZeroTrust</strong>
+        <br />
       </td>
     </tr>
   </table>
