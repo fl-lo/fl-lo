@@ -5,7 +5,7 @@
 ---
 
 ## 🌱 About Me
-- 🧠 Learning AI, ethical hacking and reverse engineering
+- 🧠 Learning AI and reverse engineering
 - 🤝 Contributing to some **open-source** projects
 - 🎯 Passionate about cybersecurity and machine learning
 
@@ -22,20 +22,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/200px-42_Logo.svg.png" width="60" height="60"/>
         <br />
         <strong>42 School</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## ⚗️ Projects
-<div align="center">
-  <table>
-    <tr>
-     <td align="center">
-        <img src="https://cdn.sacul.cloud/zerotrust/zerotrustwhite.png" width="60" height="60"/>
-        <br />
-        <strong>ZeroTrust</strong>
-        <br />
       </td>
     </tr>
   </table>
@@ -85,7 +71,7 @@
         <strong>VBA</strong>
       </td>
     <td align="center">
-        <img src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" alt="SQL" width="50" height="50"/>
+        <img src="https://datajungle.fr/wp-content/uploads/2017/03/Logo-SQL.png" alt="SQL" width="50" height="50"/>
         <br />
         <strong>SQL</strong>
       </td>
