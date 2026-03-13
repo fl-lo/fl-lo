@@ -94,7 +94,7 @@
         <strong>MongoDB</strong>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="50" height="50"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-icon-svg-download-png-1175120.png" alt="PostgreSQL" width="50" height="50"/>
         <br />
         <strong>PostgreSQL</strong>
       </td>
