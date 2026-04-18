@@ -19,7 +19,7 @@
         <strong>University of Toulouse</strong>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/200px-42_Logo.svg.png" width="60" height="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/250px-42_Logo.svg.png" width="60" height="60"/>
         <br />
         <strong>42 School</strong>
       </td>
