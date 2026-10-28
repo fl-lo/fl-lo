@@ -26,9 +26,9 @@ Reverse engineering · Machine learning · Open source
  
 **Databases**
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="36"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-icon-svg-download-png-1175120.png" alt="PostgreSQL" height="36"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="36"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-icon-svg-download-png-1175120.png" alt="PostgreSQL" height="36"/>&nbsp;&nbsp;
  
-`MySQL` · `PostgreSQL` · `MongoDB`
+`MySQL` · `PostgreSQL`
  
 **Tools**
  
