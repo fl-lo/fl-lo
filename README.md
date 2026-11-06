@@ -2,13 +2,9 @@
  
 Reverse engineering · Machine learning · Open source
  
----
- 
 ## Education
  
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJo7Gqi-RXJn3yR02BfbpCZ-8i6nEYbUSAug&s" height="28" align="top"/> &nbsp;**University of Toulouse** &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/250px-42_Logo.svg.png" height="28" align="top"/> &nbsp;**42 School**
- 
----
  
 ## Stack
  
